@@ -1,2 +1,4 @@
 # Hello-World
-test, pocetak
+
+moram pisati nesto o sebi
+Vele-san
